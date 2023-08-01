@@ -1,0 +1,75 @@
+body {
+    background: rgb(2, 0, 36);
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+.form_cont{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 100px;
+    padding: 20px 20px 50px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.form_cont h2{
+    font-size: 30px;
+    padding: 20px;
+}
+
+.butn_box button{
+    padding: 10px 30px;
+    border-radius: 13px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 0.5px solid grey;
+    background-color: white;
+}
+
+.form_cont input{
+    display: block;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 300px;
+    height: 50px;
+    padding-left: 10px;
+    outline: none;
+}
+
+.Lg_btn{
+    width: 350px;
+    margin: 20px 0;
+    color: white;
+    background: rgb(17, 94, 215);
+    background: linear-gradient(10deg, rgba(17,194,215,0.9304971988795518) 22%, rgba(209,11,218,1) 68%);
+    border: none;
+    outline: none;
+    padding: 10px 0;
+    border-radius: 12px;
+    font-size: 20px;
+}
+
+.fg_btn{
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 15px;
+}
+
+.Lg_pg{
+    background: linear-gradient(10deg, rgba(17,194,215,0.9304971988795518) 22%, rgba(209,11,218,1) 68%);;
+    width: 150px;
+    padding: 10px 0;
+    color: white;
+}
+
+.sign_btn{
+    padding: 10px;
+    border-radius: 5px;
+}
